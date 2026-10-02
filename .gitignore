@@ -1,0 +1,30 @@
+# Java / Maven
+target/
+*.class
+
+# Spring Boot
+*.log
+
+# Angular / Node
+node_modules/
+dist/
+.angular/
+.nx/
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Environment / secrets
+.env
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,1 @@
+package com.smartinternship.repository; import com.smartinternship.model.Student; import org.springframework.data.jpa.repository.JpaRepository; public interface StudentRepository extends JpaRepository<Student,Long>{}
